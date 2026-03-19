@@ -46,7 +46,7 @@ Cofundadora do projeto educacional **Sun and Moon Studio**, focado em conteúdos
 
 #### 🔗 [Instagram do Sun and Moon](https://www.instagram.com/sunandmoonzone/)  
 ---
- 📈 Experiências Acadêmicas
+## 📈 Experiências Acadêmicas
 
 - Diretoria do Centro Acadêmico Assis de Oliveira – IFRN CNAT  
 - Organização do WTADS/WINFO – Evento acadêmico de tecnologia no IFRN  
