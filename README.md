@@ -20,6 +20,7 @@ Gosto de transformar ideias em soluções práticas, unindo programação, organ
 
 ### 🌐 [TeVejo – Sistema Web com Django](https://tevejo.onrender.com/)
 Sistema web desenvolvido com Django, com funcionalidades de registro e gerenciamento de informações.
+Aplicação prática de desenvolvimento backend e deploy em ambiente cloud.  
 
 🔹 Backend: Django  
 🔹 Deploy: Render  
