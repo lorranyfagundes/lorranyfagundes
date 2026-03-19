@@ -40,11 +40,10 @@ Jogo educacional interativo desenvolvido com JavaScript e p5.js, aplicando lógi
 Redesign da identidade do projeto utilizando Figma.  
 Foco em prototipação, UI e organização visual.
 
-### 🌙 Sun and Moon Studio
+### 🌙 [Sun and Moon Studio](https://www.instagram.com/sunandmoonzone/)
 
 Cofundadora do projeto educacional **Sun and Moon Studio**, focado em conteúdos sobre programação, tecnologia e aprendizado prático.
 
-#### 🔗 [Instagram do Sun and Moon](https://www.instagram.com/sunandmoonzone/)  
 ---
 ## 📈 Experiências Acadêmicas
 
