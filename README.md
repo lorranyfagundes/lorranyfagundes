@@ -2,8 +2,6 @@
 
 🎓 Estou no 4º período de Análise e Desenvolvimento de Sistemas no IFRN CNAT.  
 💻 Sou uma desenvolvedora em formação com foco em projetos práticos.  
-📊 Tenho experiência com análise de dados e organização de processos.  
-🚀 Buscando oportunidade de estágio em tecnologia!  
 
 ---
 
